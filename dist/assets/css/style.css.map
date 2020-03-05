@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss/main.scss"],"names":[],"mappings":"AAAA,IAAI,CAAC;EACH,IAAI,EAAE,uBAAuB;CAC9B","file":"style.css","sourcesContent":["body {\n  font: 400 14px/1.5 sans-serif;\n}\n"]}
